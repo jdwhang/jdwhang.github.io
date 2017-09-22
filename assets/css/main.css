@@ -2478,7 +2478,7 @@
 		}
 
 			#header a:hover {
-				color: #ffffff !important;
+				color: #EDBB99 !important; //hover link color
 			}
 
 		#header > header {
@@ -2497,7 +2497,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #ECF0F1;//IPA name color
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2515,7 +2515,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #ECF0F1; //CV link color
 				}
 
 		#header > nav ul {
@@ -2575,7 +2575,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/Skyline-6.jpg");
+		background-image: url("../../images/skyline-sydney.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
