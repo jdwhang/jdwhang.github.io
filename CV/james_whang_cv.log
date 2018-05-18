@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.16)  24 APR 2018 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.16)  16 MAY 2018 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -196,24 +196,24 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] (./james_whang_cv.aux) ) 
+[2] [3] [4] [5] (./james_whang_cv.aux) ) 
 Here is how much of TeX's memory you used:
  2183 strings out of 492995
  28969 string characters out of 6132704
- 101474 words of memory out of 5000000
+ 102474 words of memory out of 5000000
  5744 multiletter control sequences out of 15000+600000
  14441 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,8n,35p,285b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/e
-nc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courie
-r/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.p
-fb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on james_whang_cv.pdf (4 pages, 61146 bytes).
+ 24i,8n,35p,305b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fon
+ts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/urw/co
+urier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb
+8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on james_whang_cv.pdf (5 pages, 62499 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
