@@ -2576,12 +2576,12 @@
 
 	#one:before {
 		background-image: url("../../images/ludwigskirche.jpg");
-		background-position: top right;
+		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 18em;
 		width: 100%;
 	}
 
