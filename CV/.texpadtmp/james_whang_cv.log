@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.2)  13 NOV 2018 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.2)  19 NOV 2018 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -36,19 +36,7 @@ Now handling font encoding T3 ...
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 357.
  (/usr/local/texlive/2018basic/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-/usr/local/texlive/2018basic/texmf-dist/tex/latex/tipa/t3enc.def:357: Font OT1/phv/m/n/10.95=phvr7t at 10.95pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   relax 
-l.357 {\sffamily
-                \xdef\@sffamilyname{\f@family}}
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-) (/usr/local/texlive/2018basic/texmf-dist/tex/latex/base/ot1enc.def
+)) (/usr/local/texlive/2018basic/texmf-dist/tex/latex/base/ot1enc.def
 File: ot1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
 ))) (/usr/local/texlive/2018basic/texmf-dist/tex/latex/geometry/geometry.sty
@@ -224,7 +212,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 29.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 29.
- (/usr/local/texlive/2018basic/texmf-dist/tex/latex/tipa/t3cmr.fd
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 29.
@@ -361,73 +350,73 @@ Overfull \hbox (5.6147pt too wide) in paragraph at lines 63--67
  []
 
 
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 69--75
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 69--79
 [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 77--82
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 81--86
 [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 85--96
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 89--98
 [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 98--112
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 100--114
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2018basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./email.png>]
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 114--121
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 116--123
 [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 125--136
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 127--142
 [] 
  []
 
 [2]
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 139--164
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 145--170
 [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 166--174
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 172--180
 [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 176--185
-[] 
- []
-
-
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 187--192
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 182--191
 [] 
  []
 
 [3]
-Overfull \hbox (5.6147pt too wide) in paragraph at lines 197--206
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 193--198
+[] 
+ []
+
+
+Overfull \hbox (5.6147pt too wide) in paragraph at lines 203--212
 [] 
  []
 
 [4] (/Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/james_whang_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 5573 strings out of 494091
- 82138 string characters out of 6163523
+ 5566 strings out of 494091
+ 82073 string characters out of 6163523
  188986 words of memory out of 5000000
- 9062 multiletter control sequences out of 15000+600000
- 21056 words of font info for 107 fonts, out of 8000000 for 9000
+ 9064 multiletter control sequences out of 15000+600000
+ 21223 words of font info for 102 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 41i,9n,38p,302b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,9n,38p,314b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018basic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/james_whang_cv.pdf (4 pages, 61436 bytes).
+Output written on /Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/james_whang_cv.pdf (4 pages, 62113 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
