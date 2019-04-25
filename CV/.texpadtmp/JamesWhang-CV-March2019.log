@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.11)  25 APR 2019 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.11)  17 MAR 2019 02:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**james_whang_cv.tex
-(./james_whang_cv.tex
+**JamesWhang-CV-March2019.tex
+(./JamesWhang-CV-March2019.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -194,8 +194,8 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
 \c@LT@tables=\count106
 \c@LT@chunks=\count107
 \LT@p@ftn=\toks18
-) (/Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/james_whang_cv.aux)
-\openout1 = `james_whang_cv.aux'.
+) (/Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/JamesWhang-CV-March2019.aux)
+\openout1 = `JamesWhang-CV-March2019.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -395,17 +395,17 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 222--230
  [] [] 
  []
 
-[4] (/Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/james_whang_cv.aux) ) 
+[4] (/Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/JamesWhang-CV-March2019.aux) ) 
 Here is how much of TeX's memory you used:
  5453 strings out of 492616
- 79381 string characters out of 6128982
- 194026 words of memory out of 5000000
+ 79462 string characters out of 6128982
+ 194035 words of memory out of 5000000
  9207 multiletter control sequences out of 15000+600000
  18464 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,38p,307b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,38p,316b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/james_whang_cv.pdf (4 pages, 63426 bytes).
+Output written on /Users/jameswhang/Dropbox/Public/Webpage/jdwhang.github.io/CV/.texpadtmp/JamesWhang-CV-March2019.pdf (4 pages, 63401 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
