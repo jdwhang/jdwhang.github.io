@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.3)  9 JUN 2020 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.15)  26 AUG 2020 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,30 +367,30 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 <email.png, id=1, 321.2pt x 261.97874pt>
 File: email.png Graphic file (type png)
 <use email.png>
-Package pdftex.def Info: email.png  used on input line 48.
+Package pdftex.def Info: email.png  used on input line 49.
 (pdftex.def)             Requested size: 8.03003pt x 6.54785pt.
 
-Overfull \hbox (2.08049pt too wide) in paragraph at lines 37--52
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 37--53
 [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 62--65
+Overfull \hbox (5.6147pt too wide) in alignment at lines 63--66
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 68--80
+Overfull \hbox (5.6147pt too wide) in alignment at lines 69--81
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 83--87
+Overfull \hbox (5.6147pt too wide) in alignment at lines 84--89
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 91--120
+Overfull \hbox (5.6147pt too wide) in alignment at lines 93--124
  [] [] 
  []
 
@@ -398,62 +398,62 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 91--120
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./email
 .png>]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 123--140
+Overfull \hbox (5.6147pt too wide) in alignment at lines 127--144
  [] [] 
  []
 
 [2]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 143--150
+Overfull \hbox (5.6147pt too wide) in alignment at lines 147--154
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 155--167
- [] [] 
- []
-
-
-Overfull \hbox (5.6147pt too wide) in alignment at lines 171--195
+Overfull \hbox (5.6147pt too wide) in alignment at lines 159--171
  [] [] 
  []
 
 [3]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 198--205
+Overfull \hbox (5.6147pt too wide) in alignment at lines 175--204
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 208--216
+Overfull \hbox (5.6147pt too wide) in alignment at lines 207--214
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 219--223
+Overfull \hbox (5.6147pt too wide) in alignment at lines 217--225
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 229--237
+Overfull \hbox (5.6147pt too wide) in alignment at lines 228--232
  [] [] 
  []
 
-[4] [5] (./james_whang_cv.aux) ) 
+
+Overfull \hbox (5.6147pt too wide) in alignment at lines 238--246
+ [] [] 
+ []
+
+[4] (./james_whang_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 5205 strings out of 480608
- 75316 string characters out of 5903631
- 368299 words of memory out of 5000000
+ 5208 strings out of 480608
+ 75343 string characters out of 5903630
+ 369299 words of memory out of 5000000
  20962 multiletter control sequences out of 15000+600000
- 547521 words of font info for 106 fonts, out of 8000000 for 9000
+ 547722 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,42p,346b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/d
-vips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb
-8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
-sr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on james_whang_cv.pdf (5 pages, 65027 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips
+/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on james_whang_cv.pdf (4 pages, 65624 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11782 words of extra memory for PDF output out of 12000 (max. 10000000)
 
