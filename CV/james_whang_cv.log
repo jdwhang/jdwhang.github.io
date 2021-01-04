@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.15)  26 AUG 2020 15:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 JAN 2021 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -390,7 +390,7 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 84--89
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 93--124
+Overfull \hbox (5.6147pt too wide) in alignment at lines 93--125
  [] [] 
  []
 
@@ -398,49 +398,49 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 93--124
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./email
 .png>]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 127--144
+Overfull \hbox (5.6147pt too wide) in alignment at lines 128--145
  [] [] 
  []
 
 [2]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 147--154
+Overfull \hbox (5.6147pt too wide) in alignment at lines 148--155
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 159--171
+Overfull \hbox (5.6147pt too wide) in alignment at lines 160--172
  [] [] 
  []
 
 [3]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 175--204
+Overfull \hbox (5.6147pt too wide) in alignment at lines 176--205
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 217--225
+Overfull \hbox (5.6147pt too wide) in alignment at lines 218--230
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 228--232
+Overfull \hbox (5.6147pt too wide) in alignment at lines 233--237
  [] [] 
  []
 
 [4] (./james_whang_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 5206 strings out of 480608
- 75332 string characters out of 5903630
+ 5203 strings out of 480608
+ 75302 string characters out of 5903631
  369229 words of memory out of 5000000
  20960 multiletter control sequences out of 15000+600000
- 547722 words of font info for 108 fonts, out of 8000000 for 9000
+ 547521 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,42p,346b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips
 /base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on james_whang_cv.pdf (4 pages, 64211 bytes).
+Output written on james_whang_cv.pdf (4 pages, 64121 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
