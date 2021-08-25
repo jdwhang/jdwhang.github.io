@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 AUG 2021 15:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 AUG 2021 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -413,17 +413,17 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 164--176
  []
 
 [3]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 180--209
+Overfull \hbox (5.6147pt too wide) in alignment at lines 180--212
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 222--234
+Overfull \hbox (5.6147pt too wide) in alignment at lines 225--238
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 237--241
+Overfull \hbox (5.6147pt too wide) in alignment at lines 241--245
  [] [] 
  []
 
@@ -440,7 +440,7 @@ Here is how much of TeX's memory you used:
 /base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on james_whang_cv.pdf (4 pages, 64853 bytes).
+Output written on james_whang_cv.pdf (4 pages, 65036 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
