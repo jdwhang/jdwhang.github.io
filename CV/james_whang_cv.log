@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 MAY 2022 16:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 JUN 2022 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -385,12 +385,12 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 69--81
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 84--89
+Overfull \hbox (5.6147pt too wide) in alignment at lines 84--90
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 93--129
+Overfull \hbox (5.6147pt too wide) in alignment at lines 94--130
  [] [] 
  []
 
@@ -398,32 +398,32 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 93--129
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./email
 .png>]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 132--150
+Overfull \hbox (5.6147pt too wide) in alignment at lines 133--151
  [] [] 
  []
 
 [2]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 153--161
+Overfull \hbox (5.6147pt too wide) in alignment at lines 154--162
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 166--177
+Overfull \hbox (5.6147pt too wide) in alignment at lines 167--178
  [] [] 
  []
 
 [3]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 181--215
+Overfull \hbox (5.6147pt too wide) in alignment at lines 182--216
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 228--241
+Overfull \hbox (5.6147pt too wide) in alignment at lines 229--242
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 244--248
+Overfull \hbox (5.6147pt too wide) in alignment at lines 245--249
  [] [] 
  []
 
@@ -440,7 +440,7 @@ Here is how much of TeX's memory you used:
 /base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on james_whang_cv.pdf (4 pages, 65090 bytes).
+Output written on james_whang_cv.pdf (4 pages, 65227 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
