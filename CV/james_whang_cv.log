@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  11 JUL 2024 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  15 SEP 2026 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -386,22 +386,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 56.
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 64--67
+Overfull \hbox (5.6147pt too wide) in alignment at lines 63--67
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 70--85
+Overfull \hbox (5.6147pt too wide) in alignment at lines 70--73
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 88--94
+Overfull \hbox (5.6147pt too wide) in alignment at lines 76--91
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 98--141
+Overfull \hbox (5.6147pt too wide) in alignment at lines 94--100
+ [] [] 
+ []
+
+
+Overfull \hbox (5.6147pt too wide) in alignment at lines 104--147
  [] [] 
  []
 
@@ -409,55 +414,55 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 98--141
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./email.png>]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 144--166
+Overfull \hbox (5.6147pt too wide) in alignment at lines 150--176
  [] [] 
  []
 
-[2]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 169--179
- [] [] 
- []
-
-[3]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 184--194
- [] [] 
- []
-
-
-Overfull \hbox (5.6147pt too wide) in alignment at lines 198--225
+[2] [3]
+Overfull \hbox (5.6147pt too wide) in alignment at lines 179--193
  [] [] 
  []
 
 [4]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 228--263
+Overfull \hbox (5.6147pt too wide) in alignment at lines 198--208
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 276--296
+Overfull \hbox (5.6147pt too wide) in alignment at lines 212--239
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 299--303
+Overfull \hbox (5.6147pt too wide) in alignment at lines 242--277
  [] [] 
  []
 
-[5] [6] (./james_whang_cv.aux) ) 
+[5]
+Overfull \hbox (5.6147pt too wide) in alignment at lines 290--310
+ [] [] 
+ []
+
+
+Overfull \hbox (5.6147pt too wide) in alignment at lines 313--317
+ [] [] 
+ []
+
+[6] (./james_whang_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 6445 strings out of 476025
- 98216 string characters out of 5790017
- 1873388 words of memory out of 5000000
- 26671 multiletter control sequences out of 15000+600000
- 533412 words of font info for 164 fonts, out of 8000000 for 9000
+ 6449 strings out of 476025
+ 98249 string characters out of 5790017
+ 1876388 words of memory out of 5000000
+ 26672 multiletter control sequences out of 15000+600000
+ 533531 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,67p,1011b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
-urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/
-utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pf
-b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
-Output written on james_whang_cv.pdf (6 pages, 87585 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/
+times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr
+8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
+Output written on james_whang_cv.pdf (6 pages, 89190 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
