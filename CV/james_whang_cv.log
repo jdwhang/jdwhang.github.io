@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  15 SEP 2026 14:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  18 SEP 2026 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,7 +406,7 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 94--100
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 104--147
+Overfull \hbox (5.6147pt too wide) in alignment at lines 104--149
  [] [] 
  []
 
@@ -414,47 +414,47 @@ Overfull \hbox (5.6147pt too wide) in alignment at lines 104--147
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./email.png>]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 150--176
+Overfull \hbox (5.6147pt too wide) in alignment at lines 152--178
  [] [] 
  []
 
 [2] [3]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 179--193
+Overfull \hbox (5.6147pt too wide) in alignment at lines 181--195
  [] [] 
  []
 
 [4]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 198--208
+Overfull \hbox (5.6147pt too wide) in alignment at lines 200--210
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 212--239
+Overfull \hbox (5.6147pt too wide) in alignment at lines 214--241
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 242--277
+Overfull \hbox (5.6147pt too wide) in alignment at lines 244--279
  [] [] 
  []
 
 [5]
-Overfull \hbox (5.6147pt too wide) in alignment at lines 290--310
+Overfull \hbox (5.6147pt too wide) in alignment at lines 292--312
  [] [] 
  []
 
 
-Overfull \hbox (5.6147pt too wide) in alignment at lines 313--317
+Overfull \hbox (5.6147pt too wide) in alignment at lines 315--319
  [] [] 
  []
 
 [6] (./james_whang_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 6449 strings out of 476025
- 98249 string characters out of 5790017
- 1876388 words of memory out of 5000000
+ 6452 strings out of 476025
+ 98276 string characters out of 5790017
+ 1877388 words of memory out of 5000000
  26672 multiletter control sequences out of 15000+600000
- 533531 words of font info for 166 fonts, out of 8000000 for 9000
+ 533732 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,67p,1011b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/pub
@@ -462,7 +462,7 @@ lic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/
 times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
-Output written on james_whang_cv.pdf (6 pages, 89190 bytes).
+Output written on james_whang_cv.pdf (6 pages, 89607 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
